@@ -1,7 +1,7 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
+  github: 'https://github.com/getintelect/docs,
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Nextra',
+  titleSuffix: ' – Docs',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
@@ -22,7 +22,7 @@ export default {
       <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
       <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
+      <meta name="og:title" content="Intelect" />
       <meta name="og:image" content="https://nextra.vercel.app/og.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
@@ -61,7 +61,7 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: 'Edit this page on GitHub',
+  footerEditLink: '© 2022 Intelect. All rights reserved.',
   footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
   unstable_faviconGlyph: '👋',
 }
