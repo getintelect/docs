@@ -64,6 +64,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'https://www.intelect.cc',
-  footerText: <>© MIT {new Date().getFullYear()} Intelect. All rights reserved.</>,
+  footerText: <>© {new Date().getFullYear()} Intelect. All rights reserved.</>,
   unstable_faviconGlyph: '👋',
 }
