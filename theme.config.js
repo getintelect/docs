@@ -66,7 +66,7 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: '© 2022 Intelect. All rights reserved.',
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
+  footerEditLink: 'https://www.intelect.cc',
+  footerText: <>© MIT {new Date().getFullYear()} Intelect. All rights reserved.</>,
   unstable_faviconGlyph: '👋',
 }
