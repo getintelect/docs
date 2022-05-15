@@ -1,5 +1,5 @@
 export default {
-  github: 'https://github.com/getintelect/docs,
+  github: 'https://github.com/getintelect/docs',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' – Docs',
   logo: (
